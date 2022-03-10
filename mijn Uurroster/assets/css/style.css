@@ -1,0 +1,33 @@
+table, tr{
+    width: 1000px; 
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+table, tr,th{
+    background-color: black;
+    border-bottom: solid;
+    border-color: blue;
+    border-width: thick;
+}
+.middag{
+    border-bottom: none;
+    background-color: darkblue;
+}
+
+table, tr, td{
+    background: black;
+    border: solid;
+    border-color: blue;
+    border-collapse: collapse;
+}
+table{
+    border: 4px double blue; 
+}
+
+table, tr, td:hover{
+    background: blue;
+}
